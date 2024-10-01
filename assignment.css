@@ -1,0 +1,160 @@
+.head-container{
+    background-image: url("images/Banner.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 10px;
+    height: 800px;
+}
+.head-title{
+    font-size: 35px;
+    color:white;
+    padding-left: 40%;
+    padding-top: 8%;
+}
+.head-body{
+    font-size: 60px;
+    color: white;
+    padding-left: 40%;
+    padding-top: 0%;
+    padding-right: 0;
+}
+.main-container{
+    margin-left: 40%;
+}
+.main-offer{
+    font-size: 90px;
+    color: tomato;
+    font:xx-large;
+    margin-top: 150px;
+}
+.main-title1{
+    font-size: 20px;
+    color: rgb(239, 108, 85);
+    line-height: 1px;
+}
+.main-title2{
+    font-size: 40px;
+}
+.main-image{
+    margin-left: 30%;
+}
+.body-container{
+    display: flex;
+    background-image: url("images/Vectorrr.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 150px;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 700px;
+    border-radius: 10px;
+}
+.body-title{
+    color: white;
+    font-size: 70px;
+    margin-left: 15%;
+    margin-top: 15%;
+}
+.body-pragraph{
+    color: white;
+    font-size: 30px;
+    margin-left: 15%;
+    margin-right: 30%;
+}
+.body-button{
+    color: white;
+    font-size: 25px;
+    background-color: tomato;
+    padding: 30px;border: 0px;
+    border-radius: 10px;
+    margin-left: 15%;
+    width: 200px;
+}
+.body-image{
+    margin-top: 150px;
+    margin-right: 100px;
+}
+.back-container{
+    background-color: rgb(216, 209, 209);
+    margin-top: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 10px;
+}
+.back-title1{
+    font-size: 30px;
+    margin-left: 40%;
+    padding-top: 80px;
+}
+.back-title2{
+    font-size: 30px;
+    margin-left: 37%;
+}
+.back-title3{
+    font-size: 30px;
+    margin-left: 35%;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+.span{
+    color: rgb(244, 85, 57);
+}
+.back-button{
+    color: white;
+    font-size: 25px;
+    font: bold;
+    background-color: tomato;
+    padding: 30px;
+    border: 0px;
+    border-radius: 10px;
+    margin-left: 43%;
+    margin-top: 35px;
+    margin-bottom: 60px;
+    width: 200px;
+}
+.main-mid-container{
+    display: flex;
+    margin-right: 10%;
+}
+.main-mid-title{
+    font-size: 30px;
+    color: rgb(241, 77, 48);
+    margin-top: 20%;
+    margin-left: 30%;
+}
+.main-mid-title2{
+    font-size: 60px;
+    line-height: 1px;
+    margin-left: 30%;
+}
+.main-mid-pragraph{
+    font-size: 25px;
+    margin-left: 30%;
+    margin-right: 35%;
+}
+.main-mid-image{
+    margin-right: 0%;
+    margin-top: 40%;
+    margin-left: 20%;
+}
+.main-mid-title3{
+    font-size: 60px;
+    margin-top: 35%;
+    margin-left: 40%;
+    line-height: 1px;
+}
+.main-mid-pragraph2{
+    font-size: 25px;
+    margin-left: 40%;
+    margin-right: 0px;
+}
+.main-mid-image2{
+    margin-left: 40%;
+    margin-right: 0%;
+    line-height: 1px;
+}
+.main-mid-info3{
+    margin-left:10%;
+}

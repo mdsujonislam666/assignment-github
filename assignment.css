@@ -1,3 +1,8 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
 .head-container{
     background-image: url("images/Banner.png");
     background-size:cover;
@@ -126,7 +131,7 @@
 }
 .main-mid-title2{
     font-size: 60px;
-    line-height: 1px;
+
     margin-left: 30%;
 }
 .main-mid-pragraph{
@@ -143,7 +148,7 @@
     font-size: 60px;
     margin-top: 35%;
     margin-left: 40%;
-    line-height: 1px;
+
 }
 .main-mid-pragraph2{
     font-size: 25px;
@@ -153,8 +158,195 @@
 .main-mid-image2{
     margin-left: 40%;
     margin-right: 0%;
-    line-height: 1px;
+
 }
 .main-mid-info3{
     margin-left:10%;
+}
+
+.holiday-title1{
+    font-size: 30px;
+    margin-top: 10%;
+    margin-left: 40%;
+    margin-bottom: 10px;
+}
+.holiday-title2{
+    font-size: 70px;
+    margin-left: 35%;
+    margin-bottom: 10px;
+}
+.holiday-span{
+    color: rgb(232, 63, 33);
+}
+.holiday-pragraph{
+    font-size: 20px;
+    margin-left: 34%;
+    margin-right: 30%;
+}
+.holiday-pragraph2{
+    font-size: 20px;
+    margin-left: 28%;
+    margin-right: 28%;
+}
+.holiday-pragraph3{
+    font-size: 20px;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-bottom: 10px;
+}
+
+.holiday-description2{ 
+    display: flex;
+    background-image: url("images/Rectangle\ 2.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    border-radius: 20px;
+    width: 1907px;
+    height: 582px;
+}
+   
+.holiday-image1{
+    width: 500px;
+    margin-left: 75%;
+    margin-top: 25%;
+}
+.holiday-image2{
+    margin-right: 15%;
+    margin-left: 138%;
+    width: 220px;
+    margin-top: 40%;
+}
+.holiday-image3{
+    width: 350px;
+    margin-left: 218%;
+}
+.best-title1{
+    font-size: 30px;
+    color: rgb(237, 70, 41);
+    font-weight: 700px;
+    margin-left: 15%;
+    margin-top: 10%;
+}
+.best-title2{
+    font-size: 60px;
+    color: rgb(7, 7, 7);
+    font-weight: 700px;
+    margin-left: 15%;
+    margin-top: 15px;
+}
+.best-pragraph{
+    font-size: 25px;
+    color: rgb(7, 7, 7);
+    font-weight: 700px;
+    margin-left: 15%;
+    margin-top: 15px;
+}
+.best-prodect1{
+    margin-left: 15%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    width: 800px;
+    display: flex;
+    gap: 30px;
+    border: 5px;
+}
+.best-prodect2{
+    margin-left: 15%;
+    margin-top: 10px;
+    margin-bottom: 2%;
+    width: 800px;
+    display: flex;
+    gap: 30px;
+    border: 5px;
+}
+.subscribe-description{
+    background-color: rgb(216, 209, 209);
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 10px;
+}
+.subscribe-image{
+    margin-left: 45%;
+    margin-top: 5%;
+}
+.subscribe-title{
+    font-size: 60px;
+    font-weight: 700px;
+    margin-left: 35%;
+}
+.subscribe-pragraph1{
+    font-size: 25px;
+    font-weight: 700px;
+    margin-left: 25%;
+    margin-top: 20px;
+}
+.subscribe-pragraph2{
+    font-size: 25px;
+    font-weight: 700px;
+    margin-left: 35%;
+    margin-top: 20px;
+}
+.subscribe-input{
+    padding: 25px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-left: 30%;
+    margin-top: 5%;
+    width: 400px;
+    margin-bottom: 5%;
+    border-radius: 40px 0px 0px 40px;
+}
+.subscribe-button{
+    padding: 25px;
+    font-size: 20px;
+    border-radius: 0px 40px 40px 0px;
+    margin-top: 5%;
+    margin-left: -5px;
+    width: 200px;
+    background-color: rgb(244, 37, 0);
+    color: white;
+}
+footer{
+    background-color: black;
+    color: white;
+    height: 450px;
+    margin: 10%;
+    border-radius: 0px 20px 0px 20px;
+}
+hr{
+    background-color: aliceblue;
+}
+.footer-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
+    
+}
+.footer1{
+    margin-top: 50px;
+}
+.footer-icon{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+footer hr{
+    margin-top: 50px;
+}
+.footer-image{
+    margin-left: 40%;
+    margin-top: 50px;
+}
+.footer-image img{
+   padding: 5px;
+}
+
+.footer-2017{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+    font-size: 20px;
+    margin-bottom: 50px;
 }
